@@ -4,12 +4,12 @@
 
 @font-face {
     font-family: roboto;
-    src: url(Roboto-Regular.ttf);
+    src: url(ImagesAndFonts/Roboto-Regular.ttf);
 }
 
 @font-face {
     font-family: roboto-bold;
-    src: url(Roboto-Bold.ttf);
+    src: url(ImagesAndFonts/Roboto-Bold.ttf);
 }
 body {
     margin: 0;
